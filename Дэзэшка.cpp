@@ -65,7 +65,7 @@ int Sum(vector<vector<int>> VECTAAA, int width, int height)
 
 int Min(vector<vector<int>> VECTAAA, int width, int height)
 {
-    int count = 999999999999;
+    int count = 99999999999999999999999999999999999999;
 
 
     for (int i = 0; i < height; i++)
